@@ -1,12 +1,34 @@
 {
-    "users": [
-        {"id": "27", "firstName": "Alex", "age": 18, "companyId": "1"},
-        {"id": "18", "firstName": "Diana", "age": 27, "companyId": "2"},
-        {"id": "24", "firstName": "Huse", "age": 29, "companyId": "1"}
-    ],
-
-    "companies": [
-        {"id": "1", "name": "Apple", "description": "Iphone"},
-        {"id": "2", "name": "Google", "description": "Pixel 2"}
-    ]
+  "users": [
+    {
+      "id": "27",
+      "firstName": "Alex",
+      "age": 18,
+      "companyId": "1"
+    },
+    {
+      "id": "18",
+      "firstName": "Diana",
+      "age": 27,
+      "companyId": "2"
+    },
+    {
+      "id": "24",
+      "firstName": "Saban",
+      "age": 40,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Pixel 2"
+    }
+  ]
 }
