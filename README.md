@@ -1,1 +1,1 @@
-# graphql-express-react-example
+# graphql-express-react
